@@ -1,1 +1,1 @@
-## This is a markdown file for HKBU COMM7330. *My ID is *<19439091>*!:wave:
+## This is a markdown file for *HKBU COMM7330*. *My ID is <19439091>!*:wave:
